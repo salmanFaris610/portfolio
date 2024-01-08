@@ -894,6 +894,13 @@ color: #ffffff;
     }
     .sec3{
         background-color: #151722;
+        
+    }
+    .row{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
     .sec3 h1{
     font-size: 48px;
@@ -1088,8 +1095,9 @@ color: #ffffff;
         height: 300px;
         padding: 20px 0;
     }
-    
+    .contact{
+        background-color: #151722;
+        width: 100%;
+        padding: 0;
     }
-
-
-    /* GUGUHGH */
+}
