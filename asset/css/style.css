@@ -523,13 +523,15 @@ color: #ffffff;
         margin: 3px 0;
         
     }
-    .skills-img{
-        height: 32px;
+.skills-img{
+    height: 32px;
     }
-    .skills{
-        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-
-    }
+.skills{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    align-items: center;
+    justify-content: left;
+        
+}
 
 .icon{
     margin-bottom: 0;
