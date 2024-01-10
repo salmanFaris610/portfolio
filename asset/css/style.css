@@ -292,7 +292,7 @@ footer p{
     border-radius: 10px !important;
     background-color: #9464e2;}
 .service-box{
-    padding: 0 20px;
+    padding: 20px 20px;
     background-color: #18181a;
     border-radius: 20px;
     margin: 5px 18px 30px 18px;
@@ -302,9 +302,9 @@ footer p{
     padding: 50px 0;
 }
 .service-box-heading{
-padding: 20px 0;    
+padding: 14px 0;    
 font-weight: 700;
-font-size: 30px;
+font-size: 20px;
 color: #9464e2;
 }
 .lorem{
