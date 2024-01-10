@@ -494,7 +494,7 @@ color: #ffffff;
         padding: 20px;
         border-radius: 10px;
         color: #ffffff;
-        font-size: 18px;
+        font-size: 14px;
         text-align: left;
     }
     .contact{
@@ -526,6 +526,9 @@ color: #ffffff;
 }
 .fa-brands{
     font-size: 28px;
+}
+footer p{
+    font-size: 14px;
 }
 
 }
