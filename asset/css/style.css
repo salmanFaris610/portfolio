@@ -441,6 +441,10 @@ color: #ffffff;
         font-weight: 600;
         
     }
+    .skills{
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+    }
     .skills h4{
         font-size: 22px;
         padding: 10px;
@@ -521,6 +525,10 @@ color: #ffffff;
     }
     .skills-img{
         height: 32px;
+    }
+    .skills{
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
     }
 
 .icon{
