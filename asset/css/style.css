@@ -93,10 +93,15 @@ h4{
 .fa-github{
     padding-top: 20px;
     font-size: 40px;
-    padding-right: 25px;
+    
 }
 .icon{
     margin-bottom: 20px;
+}
+.fa-brands{
+    /* padding-top: 20px; */
+    font-size: 30px;
+    padding-right: 20px;
 }
 .fa-behance{
     font-size: 30px;
@@ -269,7 +274,6 @@ footer p{
 .form-input{
     background: none;
     border-bottom: 2px solid #ffffff !important;
-    border-radius: px;
     box-shadow: none;
     outline: none;
     border: none;
@@ -345,10 +349,7 @@ color: #ffffff;
 .porfolio-head h1{
     font-size: 38px;
 }
-.fa-brands{
-    /* padding-top: 20px; */
-    font-size: 39px;
-}
+
 .service-img{
     width: 100%;
     height: 300px;
