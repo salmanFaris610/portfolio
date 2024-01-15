@@ -212,6 +212,13 @@ color: #9464e2;
     font-weight: 500;
    
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #ffffff;
+    background-color: transparent;
+}
+.nav-link{
+    color: #9464e2;
+}
 
 .contact{
     background-color: #151722;
